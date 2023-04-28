@@ -65,6 +65,7 @@ namespace ISpan.ShoppingCart.app
             _orderList = null;
             _discountPrice = 0;
             _dataTableEditHistory = null;
+            Discount.ResetText();
         }
         /// <summary>
         /// 加入歷史清單
@@ -105,7 +106,7 @@ namespace ISpan.ShoppingCart.app
                 row[2] = order.Product.Price;
                 dataTable.Rows.Add(row);
             }
-            if (_discountPrice != 0)
+            if (discount != 0)
             {
                 DataRow row = dataTable.NewRow();
                 row[0] = "優惠";
