@@ -1,0 +1,42 @@
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.exe.config
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.exe
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.pdb
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.Form1.resources
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.Properties.Resources.resources
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.GenerateResource.cache
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.exe
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.pdb
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.dll
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.pdb
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.CopyComplete
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.exe.config
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.exe
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.pdb
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.dll
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.pdb
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.AssemblyReference.cache
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.SuggestedBindingRedirects.cache
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.Form1.resources
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.Properties.Resources.resources
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.GenerateResource.cache
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.CoreCompileInputs.cache
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.CopyComplete
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.exe
+C:\Users\ispan\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.pdb
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.Form1.resources
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.Properties.Resources.resources
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.GenerateResource.cache
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.exe
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.pdb
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.exe.config
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.exe
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.app.pdb
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.dll
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\bin\Debug\ISpan.ShoppingCart.pdb
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart.app\obj\Debug\ISpan.ShoppingCart.app.csproj.CopyComplete

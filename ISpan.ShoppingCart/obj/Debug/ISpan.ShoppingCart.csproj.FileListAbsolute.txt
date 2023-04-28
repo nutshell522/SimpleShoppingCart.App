@@ -1,0 +1,12 @@
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart\bin\Debug\ISpan.ShoppingCart.dll
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart\bin\Debug\ISpan.ShoppingCart.pdb
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.dll
+C:\Users\jjboy\Desktop\新增資料夾 (2)\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.pdb
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart\bin\Debug\ISpan.ShoppingCart.dll
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart\bin\Debug\ISpan.ShoppingCart.pdb
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.dll
+C:\Users\jjboy\Desktop\ISpan.ShoppingCart\ISpan.ShoppingCart\obj\Debug\ISpan.ShoppingCart.pdb
