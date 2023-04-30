@@ -34,7 +34,6 @@ namespace ISpan.ShoppingCart.app
                 int sum = 0;
                 foreach (DataGridViewRow row in ShoppingCartViewer.Rows)
                 {
-
                     if(!int.TryParse(row.Cells[1].Value.ToString(),out int quantity)) quantity = 1;
 
                     int rowCount = (int)row.Cells[2].Value * quantity;
@@ -83,9 +82,11 @@ namespace ISpan.ShoppingCart.app
         private void DisplayTable(IEnumerable<Order> orders, int discount, bool isReadOnly, out DataTable dataTable)
         {
             dataTable = DisplayShoppingCart(orders, discount);
+            ShoppingCartViewer.CellValueChanged -= ShoppingCartViewer_CellValueChanged;  // 使編輯不會重複觸發，否則下面回傳DataSource時會出現BUG
             ShoppingCartViewer.DataSource = dataTable;
             ShoppingCartViewer.ReadOnly = isReadOnly;
             ShoppingCartViewer.Columns[2].ReadOnly = true;
+            ShoppingCartViewer.CellValueChanged += ShoppingCartViewer_CellValueChanged;  // 回復表格編輯事件
         }
         /// <summary>
         /// 顯示購物車內容
@@ -219,6 +220,7 @@ namespace ISpan.ShoppingCart.app
 
         private void ShoppingCartViewer_CellValueChanged(object sender, DataGridViewCellEventArgs e)
         {
+
             string pName = ShoppingCartViewer.Rows[e.RowIndex].Cells[0].Value.ToString();
             var cell = ShoppingCartViewer.Rows[e.RowIndex].Cells[e.ColumnIndex];
             var columnName = ShoppingCartViewer.Columns[e.ColumnIndex].Name;
@@ -226,7 +228,8 @@ namespace ISpan.ShoppingCart.app
             switch (columnName)
             {
                 case "產品名稱":
-                    if (_dataTableEditHistory != "優惠" && !_orderList.ContainsKey(pName.Trim()))
+                    if (string.IsNullOrWhiteSpace(pName) || _dataTableEditHistory == "優惠") break;
+                    else if (!_orderList.ContainsKey(pName.Trim()))
                     {
                         _orderList.Remove(_dataTableEditHistory);
                         _orderList.Add(pName.Trim(), new Order(new Product
@@ -252,7 +255,6 @@ namespace ISpan.ShoppingCart.app
 
                     if (!result || quantity < 0)
                     {
-                        MessageBox.Show("請輸入正確數量");
                         quantity = 1;
                     }
                     else if (quantity == 0)
